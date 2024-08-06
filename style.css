@@ -746,6 +746,7 @@ img {
   opacity: 1;
   visibility: visible;
 }
+
 /* protfolio */
 .protfolio__container {
   overflow: initial;
@@ -1431,18 +1432,18 @@ textarea {
   padding-top: 1px;
 }
 
-.clickMe{
+.clickMe {
   padding: 5px 8px;
   background-color: var(--first-color);
   color: white;
   border-radius: 5px;
 }
 
-.clickMe:hover{
+.clickMe:hover {
   background-color: var(--first-color-alt);
 }
 
-.cards{
+.cards {
   box-shadow: 4px 4px 8px gray;
   width: 900px;
   height: 300px;
